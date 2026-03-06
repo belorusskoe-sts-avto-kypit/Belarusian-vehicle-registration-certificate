@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://belorusskoe-sts-avto-kypit.github.io/Belarusian-vehicle-registration-certificate/sitemap.xml
+Host: https://belorusskoe-sts-avto-kypit.github.io/Belarusian-vehicle-registration-certificate/
